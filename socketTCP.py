@@ -19,9 +19,7 @@ def main():
     except socket.error as e:
         print(f'Não foi possível conectar ao host: {HostAlvo}, porta: {Porta}...')
         print(f'Erro: {e}')
-        sys.exit()
-          
+        sys.exit()          
     
 if __name__ == "__main__":
     main()
-

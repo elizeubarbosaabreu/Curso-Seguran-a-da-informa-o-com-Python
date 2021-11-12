@@ -14,3 +14,4 @@ Prof: Bruno Dias
 1. Introdução a Socket e cliente TCP/UDP e Server []
 	1. Biblioteca Socket [x]
 	1. Desenvolvimento de um cliente TCP -> [socketTCP.py](socketTCP.py) [x]
+	1. Desenvolvimento de um cliente UDP -> [socketUDP.py](socketUDP.py) [x]
