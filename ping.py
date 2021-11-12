@@ -7,7 +7,7 @@ class testes:
         self.host = host
         
         try:
-            return os.system(f'ping -n {pacotes} {host}')
+            return os.system(f'ping -c {pacotes} {host}')
         except:
             return 'ERRO'
         
@@ -25,27 +25,23 @@ class testes:
         self.filename = filename
         
         with open(filename, 'r') as file:
-            hosts = file.read()
-            hosts = hosts.split()
+            dump = file.read()
+            dump = dump.splitlines()
             
-        for host in hosts:            
-            try:
-                return os.system(f'ping -n {pacotes} {host}')                
-            except:
-                return 'ERRO'
-            time.sleep(5)
+        for ip in dump:
+            return os.system(f'ping -c {pacotes} {ip}')
+        time.sleep(1)
 
 if __name__ == "__main__":
     
-    app = testes()
-    
-    pacotes = int(input('Entre com o numero de pacotes para pingar: '))
-    
+    app = testes()    
+       
+    pacotes = int(input('Entre com o numero de pacotes para pingar: '))    
     host = input('Entre com o host ou ip para pingar: ')
     
-    for i in range(10):
-        app.pingar_simples(host)
         
     app.pingar(pacotes, host)
     
-    app.pingar_txt('hosts.txt', pacotes)
+    #app.pingar_simples(host)
+    
+    # app.pingar_txt('hosts.txt', pacotes)
