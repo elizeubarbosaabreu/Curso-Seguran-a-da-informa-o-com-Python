@@ -15,3 +15,4 @@ Prof: Bruno Dias
 	1. Biblioteca Socket [x]
 	1. Desenvolvimento de um cliente TCP -> [socketTCP.py](socketTCP.py) [x]
 	1. Desenvolvimento de um cliente UDP -> [socketUDP.py](socketUDP.py) [x]
+	1. Desenvolvimento de um Server -> [servidorUDP.py](servidorUDP.py) [x]
