@@ -1,3 +1,4 @@
-8.8.8.8
 google.com
+0
+globo.com
 yahoo.com.br
