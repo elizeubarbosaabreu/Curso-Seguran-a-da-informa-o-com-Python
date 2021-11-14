@@ -8,19 +8,18 @@ Prof: **Bruno Dias**
 
 ## Conteúdo:
 
-1. Introdução aos conceitos de Segurança da Informação e Ping [x]
-	1. Por que Python? [x]
-	1. O que é Segurança da Informação? [x]
-	1. O que é Ping? -> [ping.py](ping.py) [x]
+[x] Introdução aos conceitos de Segurança da Informação e Ping
+[x] Por que Python? 
+[x] O que é Segurança da Informação? 
+[x] O que é Ping? -> [ping.py](ping.py)
 
-1. Introdução a Socket e cliente TCP/UDP e Server [x]
-	1. Biblioteca Socket [x]
-	1. Desenvolvimento de um cliente TCP -> [socketTCP.py](socketTCP.py) [x]
-	1. Desenvolvimento de um cliente UDP -> [socketUDP.py](socketUDP.py) [x]
-	1. Desenvolvimento de um Server -> [servidorUDP.py](servidorUDP.py) [x]
+[x] Introdução a Socket e cliente TCP/UDP e Server 
+[x] Biblioteca Socket
+[x] Desenvolvimento de um cliente TCP -> [socketTCP.py](socketTCP.py)
+[x] Desenvolvimento de um cliente UDP -> [socketUDP.py](socketUDP.py) 
+[x] Desenvolvimento de um Server -> [servidorUDP.py](servidorUDP.py) 
 
-1. Desenvolvimento de ferramentas [x]
-	1. Gerador de Senhas  [PassWordGenerato.py](PassWordGenerato.py) [x]
-	1. Gerador de Hashes [HashesGenerator.py](HashesGenerator.py) [x]
-	2. Item 2
-	2. Item 3 editar
+[x] Desenvolvimento de ferramentas 
+[x] Gerador de Senhas -> [PassWordGenerato.py](PassWordGenerato.py) 
+[x] Gerador de Hashes -> [HashesGenerator.py](HashesGenerator.py) 
+[x] Desenvolvimento de um Comparador de Hashs -> [hasheChecker.py](hasheChecker.py)
