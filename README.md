@@ -8,18 +8,18 @@ Prof: **Bruno Dias**
 
 ## Conteúdo:
 
-[x] Introdução aos conceitos de Segurança da Informação e Ping
-[x] Por que Python? 
-[x] O que é Segurança da Informação? 
-[x] O que é Ping? -> [ping.py](ping.py)
-
-[x] Introdução a Socket e cliente TCP/UDP e Server 
-[x] Biblioteca Socket
-[x] Desenvolvimento de um cliente TCP -> [socketTCP.py](socketTCP.py)
-[x] Desenvolvimento de um cliente UDP -> [socketUDP.py](socketUDP.py) 
-[x] Desenvolvimento de um Server -> [servidorUDP.py](servidorUDP.py) 
-
-[x] Desenvolvimento de ferramentas 
-[x] Gerador de Senhas -> [PassWordGenerato.py](PassWordGenerato.py) 
-[x] Gerador de Hashes -> [HashesGenerator.py](HashesGenerator.py) 
-[x] Desenvolvimento de um Comparador de Hashs -> [hasheChecker.py](hasheChecker.py)
+* [x] Introdução aos conceitos de Segurança da Informação e Ping
+* [x] Por que Python? 
+* [x] O que é Segurança da Informação? 
+* [x] O que é Ping? -> [ping.py](ping.py)
+<hr>
+* [x] Introdução a Socket e cliente TCP/UDP e Server 
+* [x] Biblioteca Socket
+* [x] Desenvolvimento de um cliente TCP -> [socketTCP.py](socketTCP.py)
+* [x] Desenvolvimento de um cliente UDP -> [socketUDP.py](socketUDP.py) 
+* [x] Desenvolvimento de um Server -> [servidorUDP.py](servidorUDP.py) 
+<hr>
+* [x] Desenvolvimento de ferramentas 
+* [x] Gerador de Senhas -> [PassWordGenerato.py](PassWordGenerato.py) 
+* [x] Gerador de Hashes -> [HashesGenerator.py](HashesGenerator.py) 
+* [x] Desenvolvimento de um Comparador de Hashs -> [hasheChecker.py](hasheChecker.py)
