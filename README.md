@@ -22,13 +22,14 @@ Prof: **Bruno Dias**
 <hr>
 
 * [] **Desenvolvimento de ferramentas** 
-* [x] Gerador de Senhas -> [PassWordGenerato.py](PassWordGenerato.py) 
+* [x] Gerador de Senhas -> [PassWordGenerator.py](PassWordGenerator.py) 
 * [x] Gerador de Hashes -> [HashesGenerator.py](HashesGenerator.py) 
 * [x] Desenvolvimento de um Comparador de Hashs -> [hasheChecker.py](hasheChecker.py)
 * [x] Trabalhando com Threads e Ip's -> [threads.py](threads.py) e [ips.py](ips.py)
 * [x] Desenvolvendo um Gerador de Wordlist ->  [wordListGenerator.py](wordListGenerator.py)
-* [x] Desenvolvendo um Web Scraping [webscraping.py](webscraping.py)
-* [] Desenvolvendo um Web Crawler
+* [x] Desenvolvendo um Web Scraping -> [webscraping.py](webscraping.py)
+* [x] Desenvolvendo um Web Crawler  -> [webcrawler.py
+](webcrawler.py)
 * [] Verificador de telefone
 * [] Ocultador de arquivos
 * [] Verificador de IP externo
