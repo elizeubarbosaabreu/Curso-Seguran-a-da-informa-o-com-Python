@@ -30,7 +30,7 @@ Prof: **Bruno Dias**
 * [x] Desenvolvendo um Web Scraping -> [webscraping.py](webscraping.py)
 * [x] Desenvolvendo um Web Crawler  -> [webcrawler.py
 ](webcrawler.py)
-* [] Verificador de telefone
+* [x] Verificador de telefone -> [PhoneNumberVerify.py](PhoneNumberVerify.py)
 * [] Ocultador de arquivos
 * [] Verificador de IP externo
 * [] Ferramenta gráfica para abrir o browser
