@@ -2,7 +2,7 @@ import ctypes, os
 
 pasta = str(input('Digite ou cole o caminho do arquivo ou diretório a ser ocultado: '))
 
-atributo_ocultar = 0x02
+atributo = 0x02
 
 
 try:
