@@ -21,7 +21,7 @@ Prof: **Bruno Dias**
 * [x] Desenvolvimento de um Server -> [servidorUDP.py](servidorUDP.py) 
 <hr>
 
-* [] **Desenvolvimento de ferramentas** 
+* [x] **Desenvolvimento de ferramentas** 
 * [x] Gerador de Senhas -> [PassWordGenerator.py](PassWordGenerator.py) 
 * [x] Gerador de Hashes -> [HashesGenerator.py](HashesGenerator.py) 
 * [x] Desenvolvimento de um Comparador de Hashs -> [hasheChecker.py](hasheChecker.py)
@@ -32,5 +32,7 @@ Prof: **Bruno Dias**
 ](webcrawler.py)
 * [x] Verificador de telefone -> [PhoneNumberVerify.py](PhoneNumberVerify.py)
 * [x] Ocultador de arquivos -> [ocultadorDeArquivos.py](ocultadorDeArquivos.py)
-* [] Verificador de IP externo
-* [] Ferramenta gráfica para abrir o browser
+* [x] Verificador de IP externo -> [ipexterno.py](ipexterno.py)
+* [x] Ferramenta gráfica para abrir o browser -> [browser.py](browser.py)
+
+## Curso finalizado e muito produtivo
